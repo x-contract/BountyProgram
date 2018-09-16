@@ -1,5 +1,5 @@
 
-# UEFA Champions League #
+# UEFA Champion League Lucky Game #
 
 UEFA Champions League will be kick off soon. Based on the UEFA Champions League, Jarvis+ will pickup 1 match of each round to do the lucky game for the fans. You can bet jar on any group of "Home team win", "Draw", or "Home team away" for each match, and get token distribution/exchange if match result is same to your team. The token distribution/exchange you get is from 2 parts: one is your ratio part of other 2 teams, the other is from Jarvis+ award.
 
@@ -11,9 +11,15 @@ Steps of Join the lucky game
 
         Home team Win ERC20 address   0xEc5E4B013193F673F4767c582470647Fb58E2122
 
+         ![Home Team Win](https://github.com/x-contract/BountyProgram/images/hometeam.png)
+
         Draw ERC20 address            0x26150878257fab841B23C0a520e82bd891F3A526
 
+        ![Home Team Win](https://github.com/x-contract/BountyProgram/images/draw.png)
+
         Home team away ERC20 address  0xe2Fc29D4E2Eb7c67B8baC4E210d2A4c59443EE78
+
+        ![Home Team Win](https://github.com/x-contract/BountyProgram/images/awayteam.png)
 
 3)  Check the confirmation email that registration had been done successfully. 
 
