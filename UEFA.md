@@ -11,15 +11,17 @@ Steps of Join the lucky game
 
         Home team Win ERC20 address   0xEc5E4B013193F673F4767c582470647Fb58E2122
 
-         ![Home Team Win](https://github.com/x-contract/BountyProgram/images/hometeam.png)
+    ![Home Team Win](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/hometeam.png)
 
+        
         Draw ERC20 address            0x26150878257fab841B23C0a520e82bd891F3A526
 
-        ![Home Team Win](https://github.com/x-contract/BountyProgram/images/draw.png)
+    ![Draw](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/draw.png)
 
         Home team away ERC20 address  0xe2Fc29D4E2Eb7c67B8baC4E210d2A4c59443EE78
 
-        ![Home Team Win](https://github.com/x-contract/BountyProgram/images/awayteam.png)
+    ![Away Team Win](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/awayteam.png)
+
 
 3)  Check the confirmation email that registration had been done successfully. 
 
