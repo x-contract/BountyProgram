@@ -18,14 +18,14 @@ Steps of Join the lucky game
 
     ![Draw](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/draw.png)
 
-        Home team away ERC20 address  0xe2Fc29D4E2Eb7c67B8baC4E210d2A4c59443EE78
+        Away team win ERC20 address  0xe2Fc29D4E2Eb7c67B8baC4E210d2A4c59443EE78
 
     ![Away Team Win](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/awayteam.png)
 
 
-3)  Check the confirmation email that registration had been done successfully. 
+3)  Check the confirmation email that registration had been done successfully.
 
-4)  Check your account for token distribution/exchange according to match result. 
+4)  Check your account for token distribution/exchange according to match result.
 
 ## Rules for the UEFA Javis+ game ## 
 
