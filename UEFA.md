@@ -9,7 +9,7 @@ Steps of Join the lucky game
 
 2)  Transfer jar you bet on registration page to the relevant ERC20 wallet address according to the group you are on:
 
-        Home team Win ERC20 address   0xEc5E4B013193F673F4767c582470647Fb58E2122
+        Home Team Win ERC20 address   0xEc5E4B013193F673F4767c582470647Fb58E2122
 
     ![Home Team Win](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/hometeam.png)
 
@@ -18,7 +18,7 @@ Steps of Join the lucky game
 
     ![Draw](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/draw.png)
 
-        Away team win ERC20 address  0xe2Fc29D4E2Eb7c67B8baC4E210d2A4c59443EE78
+        Away Team Win ERC20 address  0xe2Fc29D4E2Eb7c67B8baC4E210d2A4c59443EE78
 
     ![Away Team Win](https://raw.githubusercontent.com/x-contract/BountyProgram/master/images/awayteam.png)
 
